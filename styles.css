@@ -1,0 +1,119 @@
+﻿body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    font-family: Arial, sans-serif;
+}
+
+.section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100vh;
+}
+.sector7 {
+    background-color: transparent;
+    background-image: url('studsovet.png');
+    background-size: cover;
+    background-position: center;
+    color: white;
+}
+.sector1 {
+    background-color: transparent;
+    background-image: url('sport.png');
+    background-size: cover;
+    background-position: center;
+    color: white;
+}
+.sector2 {
+    background-color: transparent;
+    background-image: url('edison.png');
+    background-size: cover;
+    background-position: center;
+    color: white;
+}
+.sector3 {
+    background-color: transparent;
+    background-image: url('media.png');
+    background-size: cover;
+    background-position: center;
+    color: white;
+}
+.sector4 {
+    background-color: transparent;
+    background-image: url('dk.png');
+    background-size: cover;
+    background-position: center;
+    color: white;
+}
+.sector5 {
+    background-color: transparent;
+    background-image: url('deka.png');
+    background-size: cover;
+    background-position: center;
+    color: white;
+}
+.sector6 {
+    background-color: transparent;
+    background-image: url('molodezh.png');
+    background-size: cover;
+    background-position: center;
+    color: white;
+}
+.maincover {
+    background-color: transparent;
+    background-image: url('1korpus.png');
+    background-size: cover;
+    background-position: center;
+    color: white;
+}
+.karta {
+    height:60vh;
+    width: auto;
+
+}
+.blue {
+    background-color: #0074d9;
+    color: white;
+}
+
+.white {
+    background-color: #ffffff;
+    color: white;
+}
+.kek {
+    background-color: #ffffff;
+    color: #333;
+}
+.header2 {
+     margin-top: -20px;
+}
+.content {
+    text-align: center;
+    max-width: 600px;
+    padding: 20px;
+    box-sizing: border-box;
+    margin: auto;
+    background-color: rgba(0, 0, 0, 0.3);
+    border-radius: 10px;
+}
+.content1 {
+    text-align: center;
+    max-width: 600px;
+    padding: 20px;
+    box-sizing: border-box;
+    margin: auto;
+    color:black;
+}
+.buttons {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-top: 20px;
+    color: white;
+}
+/* Ensure smooth scrolling */
+html {
+    scroll-behavior: smooth;
+}
