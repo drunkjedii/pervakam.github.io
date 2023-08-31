@@ -8,7 +8,13 @@ body, html {
     height: 100%;
     font-family: IBMPlexSans-Regular;
 }
-
+.section2 {
+    background-color: transparent;
+    background-image: url('fon.png');
+    background-size: cover;
+    background-position: center;
+    color: white;
+}
 .photo {
     height: 15vh;
     margin-top: 20px;
