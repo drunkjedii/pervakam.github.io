@@ -10,13 +10,13 @@ body, html {
 }
 
 .photo1 {
-    width: 20vh;
+    height: 15vh;
     margin-top: 20px;
-    height: auto;
+    width: auto;
 .photo2 {
-    width: 20vh;
-    margin-left: 20px;
-    height: auto;
+    height: 15vh;
+    margin-top: 20px;
+    width: auto;
 }
 
 .link {
