@@ -9,9 +9,13 @@ body, html {
     font-family: IBMPlexSans-Regular;
 }
 
-.photo {
-    width: 40vh;
+.photo1 {
+    width: 20vh;
     margin-top: 20px;
+    height: auto;
+.photo2 {
+    width: 20vh;
+    margin-left: 20px;
     height: auto;
 }
 
